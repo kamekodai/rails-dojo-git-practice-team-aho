@@ -45,3 +45,5 @@ bin/rails server
 
 [担当A] GitHub Flow でチーム開発をマスターする！
 [担当B] GitHub Flow を使えばコンフリクトも怖くない！
+
+[担当C] マージは慎重に！
