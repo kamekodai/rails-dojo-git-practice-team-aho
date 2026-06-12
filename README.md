@@ -44,3 +44,4 @@ bin/rails server
 - 課題③：投稿フォームのボタン文言を変更し、READMEを更新しました（担当A）
 
 [担当A] GitHub Flow でチーム開発をマスターする！
+[担当B] GitHub Flow を使えばコンフリクトも怖くない！
