@@ -47,3 +47,4 @@ bin/rails server
 [担当B] GitHub Flow を使えばコンフリクトも怖くない！
 
 [担当B] マージは安全だ！
+[担当C] マージは慎重に！
